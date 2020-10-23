@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     Button playAudio;
     Button stopPlaying ;
 
-    MediaRecorder mr;
+    MediaRecorder    mr;
     Random r;
 
     public static final int RequestPermissionCode = 154;
